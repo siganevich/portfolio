@@ -1,0 +1,67 @@
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe.config
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.pdb
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.csprojResolveAssemblyReference.cache
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\MainWindow.g.cs
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\App.g.cs
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam_MarkupCompile.cache
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam_MarkupCompile.lref
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\MainWindow.baml
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.g.resources
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.Properties.Resources.resources
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.csproj.GenerateResource.Cache
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.exe
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.pdb
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.Resource1.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe.config
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.exe
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.pdb
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.pdb
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.csprojResolveAssemblyReference.cache
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\MainWindow.g.cs
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\App.g.cs
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam_MarkupCompile.cache
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam_MarkupCompile.lref
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\MainWindow.baml
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.g.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.Properties.Resources.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.Resource1.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\C# WPF\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.csproj.GenerateResource.Cache
+C:\Users\12142.ITSTEP\Desktop\Диана сегодня\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe.config
+C:\Users\12142.ITSTEP\Desktop\Диана сегодня\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.exe
+C:\Users\12142.ITSTEP\Desktop\Диана сегодня\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.pdb
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe.config
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.exe
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.pdb
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\MainWindow.g.cs
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\App.g.cs
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam_MarkupCompile.cache
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam_MarkupCompile.lref
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.pdb
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\MainWindow.baml
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.g.resources
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.Properties.Resources.resources
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.Resource1.resources
+C:\Users\KV1337D\Desktop\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.csproj.GenerateResource.Cache
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe.config
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.exe
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\bin\Debug\hw_7_exam.pdb
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.csproj.AssemblyReference.cache
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\MainWindow.g.cs
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\App.g.cs
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam_MarkupCompile.cache
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam_MarkupCompile.lref
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\MainWindow.baml
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.g.resources
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.Properties.Resources.resources
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.Resource1.resources
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.csproj.GenerateResource.cache
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.exe
+C:\Users\Diana\Downloads\hw_7_exam-20210923T182229Z-001\hw_7_exam\hw_7_exam\hw_7_exam\obj\Debug\hw_7_exam.pdb

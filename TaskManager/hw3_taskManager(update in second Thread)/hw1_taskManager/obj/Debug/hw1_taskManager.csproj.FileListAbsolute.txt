@@ -1,0 +1,22 @@
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\bin\Debug\hw1_taskManager.exe.config
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\bin\Debug\hw1_taskManager.exe
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\bin\Debug\hw1_taskManager.pdb
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.csprojResolveAssemblyReference.cache
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.Form1.resources
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.Properties.Resources.resources
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.csproj.GenerateResource.Cache
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.exe
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.pdb
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.Form2.resources
+C:\Users\12142\Desktop\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.Form3.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\bin\Debug\hw1_taskManager.exe.config
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.exe
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.pdb
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\bin\Debug\hw1_taskManager.exe
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\bin\Debug\hw1_taskManager.pdb
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.csprojResolveAssemblyReference.cache
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.Form1.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.Form2.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.Form3.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.Properties.Resources.resources
+D:\STUDENTS\СП-3211\Siganevich\Programming\System Programming\hw1_taskManager\hw1_taskManager\obj\Debug\hw1_taskManager.csproj.GenerateResource.Cache
