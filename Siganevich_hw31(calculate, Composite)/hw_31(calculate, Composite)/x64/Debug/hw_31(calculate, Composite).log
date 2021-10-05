@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\diana\desktop\siganevich_hw31(calculate, composite)\hw_31(calculate, composite)\source.cpp(145): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note:  см. объявление "itoa"
+  hw_31(calculate, Composite).vcxproj -> C:\Users\Diana\Desktop\Siganevich_hw31(calculate, Composite)\x64\Debug\hw_31(calculate, Composite).exe
+  hw_31(calculate, Composite).vcxproj -> C:\Users\Diana\Desktop\Siganevich_hw31(calculate, Composite)\x64\Debug\hw_31(calculate, Composite).pdb (Full PDB)
