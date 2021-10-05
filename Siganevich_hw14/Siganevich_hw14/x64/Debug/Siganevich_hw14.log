@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\diana\desktop\siganevich_hw14\siganevich_hw14\mystring.h(29): warning C4522: myString: заданы несколько операторов присваивания
+  Siganevich_hw14.vcxproj -> C:\Users\Diana\Desktop\Siganevich_hw14\x64\Debug\Siganevich_hw14.exe
+  Siganevich_hw14.vcxproj -> C:\Users\Diana\Desktop\Siganevich_hw14\x64\Debug\Siganevich_hw14.pdb (Full PDB)
